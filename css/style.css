@@ -1,0 +1,34 @@
+#logo{
+   
+    width: 8rem ;
+}
+
+.carousel-inner{
+    filter:brightness(60%);
+    padding-bottom: 2rem;
+ 
+}
+
+.container{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    
+}
+
+.subtitulo h5{
+    text-align: center;
+}
+
+.card{
+ background-color: aqua;
+ align-items: center;
+ 
+} 
+
+.cartas{
+
+    
+}
